@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <!-- Background color of the StartScreenActivity and other screens -->
+    <color name="background">#f5f5f5</color>
+
+    <!-- Title color of the game -->
+    <color name="title">#333333</color>
+
+    <!-- Button color and text color used for all buttons in the app -->
+    <color name="button_background">#2196F3</color>
+    <color name="button_default">#2196F3</color>
+    <color name="button_pressed">#1565C0</color>
+    <color name="button_focused">#64B5F6</color>
+    <color name="button_text">#ffffff</color>
+    <color name="board_background">#F5F5F5</color>
+    <color name="primary">#2196F3</color>
+    <color name="darkbrown">#36221b</color>
+
+
+
+
+</resources>

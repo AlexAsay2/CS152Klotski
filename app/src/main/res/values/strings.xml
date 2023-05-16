@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Klotski</string>
+    <string name="start_screen_level_selection_button_text">Select Level</string>
+    <string name="start_screen_exit_button_text">Exit</string>
+    <string name="level_selection_title">Level Select</string>
+    <string name="back_button_label">Back</string>
+    <string name="game_instructions">Move the red square to the bottom center to win!</string>
+
+
+
+</resources>
